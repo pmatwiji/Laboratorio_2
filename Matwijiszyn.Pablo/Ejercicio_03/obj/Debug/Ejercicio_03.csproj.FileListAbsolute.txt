@@ -1,0 +1,7 @@
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
