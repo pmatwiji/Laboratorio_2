@@ -1,0 +1,5 @@
+D:\VisualStudio\Matwijiszyn.Pablo\MiLibreria\bin\Debug\MiLibreria.dll
+D:\VisualStudio\Matwijiszyn.Pablo\MiLibreria\bin\Debug\MiLibreria.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Matwijiszyn.Pablo\MiLibreria\obj\Debug\MiLibreria.dll
+D:\VisualStudio\Matwijiszyn.Pablo\MiLibreria\obj\Debug\MiLibreria.pdb

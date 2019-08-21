@@ -5,3 +5,10 @@ D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_02\bin\Debug\Ejercicio_02.exe
 D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
 D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.exe
 D:\Visual Studio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+D:\VisualStudio\Matwijiszyn.Pablo\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
