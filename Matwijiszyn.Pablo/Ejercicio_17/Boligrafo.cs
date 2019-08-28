@@ -58,9 +58,10 @@ namespace Ejercicio_17
                 retorno = true;
                 for (int i = 0; i < porcentaje; i++)
                 {
+                    SetTinta(-1);
                     indicador = indicador + '*';
                 }
-                SetTinta((short)gasto);
+                //SetTinta((short)gasto);
             }
             return retorno;
         }
