@@ -32,5 +32,7 @@ namespace Clase_04.WindowsForm
 
             lstMostrar.Items.Add(MiCosa.Mostrar());
         }
+
+        
     }
 }
