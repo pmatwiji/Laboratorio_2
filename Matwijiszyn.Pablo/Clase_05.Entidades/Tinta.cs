@@ -44,14 +44,7 @@ namespace Clase_05.Entidades
 
         public static bool operator == (Tinta primerElemento, Tinta segundoElemento)
         {
-            //bool comparacion = false;
-
-            //if(primerElemento._color == segundoElemento._color && primerElemento._tipo == segundoElemento._tipo)
-            //{
-            //    comparacion = true;
-            //}
-
-            //return comparacion; 
+            
             if(!Object.Equals(primerElemento,null) && !Object.Equals(segundoElemento,null))
             {
                 return (primerElemento._color == segundoElemento._color && primerElemento._tipo == segundoElemento._tipo);
