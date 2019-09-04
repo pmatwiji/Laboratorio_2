@@ -60,7 +60,11 @@ namespace Clase_05.Entidades
             {
                 if(Object.Equals(primerElemento,null) && Object.Equals(segundoElemento,null))
                 {
-
+                    return true;
+                }
+                else
+                {
+                    return false;
                 }
             }
         }

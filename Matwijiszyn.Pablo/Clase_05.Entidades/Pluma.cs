@@ -11,6 +11,7 @@ namespace Clase_05.Entidades
         private string _marca;
         private Tinta _tinta;
         private int _cantidad;
+
         #region Constructores
         public Pluma()
         {
@@ -56,7 +57,7 @@ namespace Clase_05.Entidades
 
         public static Pluma operator +(Pluma pluma, Tinta tinta)
         {
-            if(pluma._tinta == tinta && pluma._cantidad <= 100)
+            if(pluma._tinta == tinta && pluma._cantidad < 100)
             {
                 pluma._cantidad++;
             }

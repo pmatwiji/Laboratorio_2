@@ -18,15 +18,15 @@ namespace Clase_05
 
             Console.WriteLine(b);
 
-            Pluma c = new Pluma();
+            Pluma c = new Pluma("Bic",a,100);
             
             b = c;
 
             Console.WriteLine(b);
 
-           // c = c + a;
+            c = c + a;
 
-            //Console.WriteLine(c);
+           Console.WriteLine(c);
 
             Console.ReadLine();
         }
