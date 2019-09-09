@@ -85,7 +85,57 @@ namespace Clase_06.Entidades
 
         public static Paleta operator +(Paleta paleta, Tempera tempera)
         {
-            
+            bool aux = false;
+            int posicion = -1;
+            int posicionTempera = -1;
+
+            if (paleta == tempera)
+            {
+                posicionTempera = paleta | tempera;
+                paleta.colores[posicionTempera] = paleta.colores[posicionTempera] + tempera;
+                aux = true;
+            }
+
+            if (aux == false)
+            {
+                for (int i = 0; i < paleta.colores.Length; i++)
+                {
+                    posicion = paleta.buscarLibre();
+                }
+                if (posicion != -1)
+                {
+                    paleta.colores[posicion] = tempera;
+                }
+            }
+            return paleta;
+        }
+
+        private int buscarLibre()
+        {
+            int posicion = -1;
+            for (int i = 0; i < this.colores.Length; i++)
+            {
+                if (Object.Equals(this.colores[i], null))
+                {
+                    posicion = i;
+                    break;
+                }
+            }
+            return posicion;
+        }
+
+        public static int operator |(Paleta paleta, Tempera tempera)
+        {
+            int posicion = -1;
+            for (int i = 0; i < paleta.colores.Length; i++)
+            {
+                if (paleta.colores[i] == tempera)
+                {
+                    posicion = i;
+                    break;
+                }
+            }
+            return posicion;
         }
     }
 }
