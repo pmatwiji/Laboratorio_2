@@ -1,0 +1,14 @@
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\bin\Debug\Clase_06.exe.config
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\bin\Debug\Clase_06.exe
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\bin\Debug\Clase_06.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\bin\Debug\Clase_06.Entidades.dll
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\bin\Debug\Clase_06.Entidades.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.csprojAssemblyReference.cache
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.Form1.resources
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.Properties.Resources.resources
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.csproj.GenerateResource.cache
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.csproj.CopyComplete
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.exe
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.pdb
+D:\VisualStudio\Matwijiszyn.Pablo\Clase_06\obj\Debug\Clase_06.Tempera.resources
