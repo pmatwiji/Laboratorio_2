@@ -41,8 +41,15 @@ namespace Clase_06
             Entidades.Tempera tempera = new Entidades.Tempera((ConsoleColor)this.cmbColor.SelectedItem, this.txtMarca.Text, int.Parse(this.txtCantidad.Text));
             
             MessageBox.Show(tempera);
+            this.DialogResult = DialogResult.OK;
 
-            
+
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.Cancel;
+            this.Close();
         }
     }
 }

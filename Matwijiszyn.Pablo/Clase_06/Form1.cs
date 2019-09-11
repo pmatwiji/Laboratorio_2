@@ -31,14 +31,21 @@ namespace Clase_06
 
             frm.ShowDialog();
 
-            //this.miPaleta += frm.MiTempera;
-            //this.lstPaleta.Items.Add(miPaleta);
-        }
+            if (frm.DialogResult == DialogResult.OK)
+            {
+                //this.miPaleta += frm.MiTempera;
+                //this.lstPaleta.Items.Add(miPaleta);
+            }
+
+                
+            }
 
         private void crearPaletaMnu_Click(object sender, EventArgs e)
         {
             this.grpPaleta.Visible = true;
-            //this.crearPaletaMnu.Enabled = false;
+            this.crearPaletaMnu.Enabled = false;
         }
+
+
     }
 }

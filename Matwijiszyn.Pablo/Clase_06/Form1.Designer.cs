@@ -61,14 +61,14 @@
             this.crearPaletaMnu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.temperaToolStripMenuItem});
             this.crearPaletaMnu.Name = "crearPaletaMnu";
-            this.crearPaletaMnu.Size = new System.Drawing.Size(180, 22);
+            this.crearPaletaMnu.Size = new System.Drawing.Size(137, 22);
             this.crearPaletaMnu.Text = "Crear Paleta";
             this.crearPaletaMnu.Click += new System.EventHandler(this.crearPaletaMnu_Click);
             // 
             // temperaToolStripMenuItem
             // 
             this.temperaToolStripMenuItem.Name = "temperaToolStripMenuItem";
-            this.temperaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.temperaToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
             this.temperaToolStripMenuItem.Text = "Tempera";
             this.temperaToolStripMenuItem.Click += new System.EventHandler(this.temperaToolStripMenuItem_Click);
             // 
