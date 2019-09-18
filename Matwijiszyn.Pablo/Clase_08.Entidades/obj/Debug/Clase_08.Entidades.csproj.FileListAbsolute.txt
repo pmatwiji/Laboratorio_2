@@ -4,3 +4,9 @@ D:\VisualStudio\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidade
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.dll
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.pdb
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\bin\Debug\Clase_08.Entidades.dll
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\bin\Debug\Clase_08.Entidades.pdb
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.csprojAssemblyReference.cache
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.dll
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08.Entidades\obj\Debug\Clase_08.Entidades.pdb

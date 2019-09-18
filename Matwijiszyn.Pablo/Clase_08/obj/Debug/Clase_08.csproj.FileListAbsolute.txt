@@ -8,3 +8,13 @@ D:\VisualStudio\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.csproj.CoreCompile
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.csproj.CopyComplete
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.exe
 D:\VisualStudio\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.pdb
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\bin\Debug\Clase_08.exe.config
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\bin\Debug\Clase_08.exe
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\bin\Debug\Clase_08.pdb
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\bin\Debug\Clase_08.Entidades.dll
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\bin\Debug\Clase_08.Entidades.pdb
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.csprojAssemblyReference.cache
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.csproj.CoreCompileInputs.cache
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.csproj.CopyComplete
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.exe
+C:\Users\x__bi\source\repos\Laboratorio_2\Matwijiszyn.Pablo\Clase_08\obj\Debug\Clase_08.pdb

@@ -12,14 +12,14 @@ namespace Clase_08.Entidades
 
         public string MiTitulo
         {
-            get { return Titulo; }
+            get { return this.Titulo; }
         }
 
         private string Autor;
 
         public string MiAutor
         {
-            get { return Autor; }
+            get { return this.Autor; }
         }
 
         private List<Capitulo> ListCapitulos;// = new List<Capitulo>();
@@ -71,7 +71,7 @@ namespace Clase_08.Entidades
         {
             get
             {
-                if(this.ListCapitulos[i] != null)
+                if(i >=0 && i < ListCapitulos.Count)
                 {
                     return this.ListCapitulos[i];
                 }
@@ -80,7 +80,17 @@ namespace Clase_08.Entidades
                     return null;
                 }
             }
-            set { }
+            set
+            {
+                if (i >= 0 && i < ListCapitulos.Count)
+                {
+                    this.ListCapitulos[i] = value;
+                }
+                else if (i == ListCapitulos.Count)
+                {
+                    this.ListCapitulos.Add(value);
+                }
+            }
         }
 
         //get si indice excede rango, retorna null
