@@ -51,5 +51,7 @@ namespace Clase_06
             this.DialogResult = DialogResult.Cancel;
             this.Close();
         }
+
+
     }
 }
